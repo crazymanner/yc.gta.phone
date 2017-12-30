@@ -125,3 +125,7 @@ a:hover:after {
   color: #fff;
   transition: color ease-out .1s;
 }
+
+.a {
+    margin-left: 70%;
+}
